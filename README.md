@@ -1,2 +1,2 @@
 # RaspberryPiProjects
-This is containing all python code related for raspberry pi
+This folder is containing all python related code for raspberry pi
